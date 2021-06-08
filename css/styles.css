@@ -11069,3 +11069,10 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+table {
+  width: 100%;
+}
+th, td {
+  text-align: left;
+  padding: 10px;
+}

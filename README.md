@@ -5,6 +5,7 @@
 This repository is for my portfolio site hosted by [Github Pages](https://pages.github.com/)  
 I used the [Freelancer theme from Start Bootstarp website](https://startbootstrap.com/theme/freelancer) as a template and modified the contents & some of the settings according to my needs. 
 
+Note:
 *I don't create or own any of the brand logos displayed in this site. All the logos are downloaded from internet. All credits goes to the owners of respective creation.*
 
 ---
@@ -14,4 +15,4 @@ More importantly you can read and know about me in *ABOUT ME* section of the sit
 
 Kindly visit the site and my works, and share your thoughts and suggestions with me.  
 
-**Keep learnig, Keep thriving.** 
+**Keep learning, Keep thriving.** 
